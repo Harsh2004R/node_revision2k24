@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "name": "harsh"
+        },
+        {
+            "email": "harsh@gmail.com"
+        },
+        
+        {
+            "name": "hugukjjk",
+            "age": "23"
+        }
+    ],
+    "post": [
+        {
+            "blog": "Tittle of the blog"
+        },
+        {
+            "upload_date": "yfuyu"
+        }
+    ]
+}
